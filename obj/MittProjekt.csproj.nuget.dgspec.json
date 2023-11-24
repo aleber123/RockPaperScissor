@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/MittProjekt.csproj": {}
+  },
+  "projects": {
+    "/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/MittProjekt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/MittProjekt.csproj",
+        "projectName": "MittProjekt",
+        "projectPath": "/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/MittProjekt.csproj",
+        "packagesPath": "/Users/alexanderbergqvist/.nuget/packages/",
+        "outputPath": "/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexanderbergqvist/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

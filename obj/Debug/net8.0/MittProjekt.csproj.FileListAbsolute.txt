@@ -1,0 +1,14 @@
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/bin/Debug/net8.0/MittProjekt
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/bin/Debug/net8.0/MittProjekt.deps.json
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/bin/Debug/net8.0/MittProjekt.runtimeconfig.json
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/bin/Debug/net8.0/MittProjekt.dll
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/bin/Debug/net8.0/MittProjekt.pdb
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.AssemblyInfoInputs.cache
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.AssemblyInfo.cs
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.csproj.CoreCompileInputs.cache
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.dll
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/refint/MittProjekt.dll
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.pdb
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/MittProjekt.genruntimeconfig.cache
+/Users/alexanderbergqvist/Desktop/C#/1/MittProjekt/obj/Debug/net8.0/ref/MittProjekt.dll
